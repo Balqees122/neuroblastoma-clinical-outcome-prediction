@@ -68,6 +68,8 @@ To improve generalization and reduce overfitting:
 
 ## Project Visuals
 
+## Project Visuals
+
 ### Workflow
 ![Workflow](workflow.png)
 
