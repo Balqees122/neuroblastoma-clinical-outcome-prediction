@@ -65,6 +65,7 @@ To improve generalization and reduce overfitting:
 - Simpler models can outperform more complex models in some biomedical prediction tasks
 - Machine learning can support the estimation of missing clinical variables in cancer datasets when preprocessing and validation are handled carefully
 
+
 ## Project Visuals
 
 ### Workflow
@@ -76,7 +77,7 @@ To improve generalization and reduce overfitting:
 ### Correlation Matrix
 ![Correlation Matrix](correlation_matrix.png)
 
-### Model Comparison
+### Model Performance Comparison
 ![Model Comparison](model_comparison.png)
 
 ## Tools and Technologies
