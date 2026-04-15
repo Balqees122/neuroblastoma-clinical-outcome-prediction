@@ -68,16 +68,16 @@ To improve generalization and reduce overfitting:
 ## Project Visuals
 
 ### Workflow
-![Workflow](images/workflow.png)
+![Workflow](workflow.png)
 
 ### Data Distribution
-![Data Distribution](images/data_distribution.png)
+![Data Distribution](data_distribution.png)
 
 ### Correlation Matrix
-![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix](correlation_matrix.png)
 
 ### Model Comparison
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](model_comparison.png)
 
 ## Tools and Technologies
 - Python
